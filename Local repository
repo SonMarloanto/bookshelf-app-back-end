@@ -1,0 +1,6 @@
+git add .
+git commit -m "initial commit"
+Berikut fungsi dari kedua perintah tersebut:
+
+git add . digunakan untuk memasukkan semua berkas ke stash, terkecuali berkas node_modules.
+git commit -m “initial commit” digunakan untuk menyimpan perubahan pada local repository. Setiap perubahan pada sistem git dapat ditelusuri berdasarkan commit history.
